@@ -1,0 +1,56 @@
+.cover_photo {
+  height: 240px; }
+
+.contact form input {
+  width: 100%;
+  padding: 9px 15px;
+  margin-top: 5px;
+  border: 1px solid  #e4edf6; }
+.contact form textarea {
+  width: 100%;
+  border: 1px solid  #e4edf6;
+  margin-top: 5px;
+  resize: none;
+  min-height: 190px; }
+.contact form button {
+  font-size: 14px;
+  padding: 6px 16px;
+  border-radius: 5px;
+  color: #fff;
+  outline: none;
+  margin-top: 10px;
+  background: #f6772c;
+  text-transform: uppercase;
+  border: none; }
+.contact form .maNotification {
+  font-size: 16px;
+  color: #333333;
+  position: static;
+  margin: 0;
+  padding: 0;
+  text-transform: capitalize; }
+
+.map .tittle {
+  font-size: 24px; }
+.map .map-cov {
+  width: 100%;
+  float: left;
+  height: 199px;
+  overflow: hidden; }
+  .map .map-cov .m5 {
+    margin-top: 5px; }
+.map .ids {
+  margin-top: 31px;
+  padding-left: 0;
+  padding-right: 0; }
+  .map .ids h2 {
+    font-size: 13.5px;
+    color: #6e868c;
+    line-height: 24px;
+    padding-left: 27px;
+    font-family: "Open Sans",sans-serif;
+    text-transform: none; }
+    .map .ids h2 span {
+      display: block; }
+
+/*# sourceMappingURL=style.css.map */
